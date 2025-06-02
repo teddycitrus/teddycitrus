@@ -1,4 +1,4 @@
-## Hi there 👋
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 <!--
 **teddycitrus/teddycitrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
