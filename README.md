@@ -1,4 +1,4 @@
-# hey, i'm teddy 👋
+# hey, i'm john 👋
 
 > builder. hackathon kid. toronto.
 
@@ -12,7 +12,7 @@ i like making stuff ig. mostly worked on fullstack and computer vision projects.
 
 ## what i've shipped
 
-### [eureka — supply chain risk intelligence](https://github.com/teddycitrus/eureka-iris)
+### [eureka - supply chain risk intelligence](https://github.com/teddycitrus/eureka-iris)
 
 maps your supplier network onto a live 3D globe and lets you query your exposure through a plain-english voice agent
 
@@ -20,11 +20,15 @@ maps your supplier network onto a live 3D globe and lets you query your exposure
 
 ---
 
-### iris — hands-free computer control
+### [iris - hands-free computer control](https://github.com/teddycitrus/iris-application)
 
 lets users control their computers using only their eyes and voice. real-time eye tracking + offline speech recognition → clicking, scrolling, typing. no physical input required.
 
 `python` `opencv` `mediapipe` `vosk` `pyautogui`
+
+### [songchart - choir repertoire manager](https://github.com/teddycitrus/songchart)
+
+replaced our old pen-and-paper system. CRUD song entries with metadata such as key, sheet music, and tempo. weighted repertoire chooser that quickly assembles a setlist for each performance. made for the youth choir at st alphonsa cathedral mississauga 
 
 ---
 
