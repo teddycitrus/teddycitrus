@@ -1,6 +1,6 @@
 # hey, i'm john 👋
 
-> builder. hackathon kid. toronto.
+> toronto
 
 i like making stuff ig. mostly worked on fullstack and computer vision projects. recently delved into agentic ai
 ![](https://github.com/teddycitrus/readme/blob/generated/overview.svg#gh-dark-mode-only)
